@@ -11,6 +11,4 @@ for(let i=0;i<numbers.length;i++){
 };
 
 //get array index
-
-let names = ['Crish','Jhon','Mikel'];
 console.log(names[2]);
